@@ -1,5 +1,5 @@
 # Python-Clocks
-Just a Clock &amp; Stopwatch in Python.
+Just a Clock &amp; a Stopwatch in Python.
 
 
 
