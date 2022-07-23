@@ -1,10 +1,6 @@
 # Python-Clocks
 Just a Clock &amp; a Stopwatch in Python.
 
-
-
-
-### "Py Time"
 It is a Python Project based on "Time Measurement".
 
 
